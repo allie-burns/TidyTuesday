@@ -28,7 +28,7 @@ temp <- temperature %>%
     mutate(z_score_group = (avgtemp - mean(avgtemp)) / sd(avgtemp)) %>% ## Calculate z-score
     mutate(abAvg = avgtemp - mean(avgtemp))
 
-pdf("../../img/2020/2020_2_AustralianFires_1.pdf",height=6,width=10)
+png("../../img/2020/2020_2_AustralianFires_1.png",height=400,width=700)
 ggplot(data = temp, aes(x = year, y = city_name, fill = abAvg)) + 
     geom_tile(color="black", height=0.90) +
     scale_fill_distiller(name = "Temperature\nDifference",
