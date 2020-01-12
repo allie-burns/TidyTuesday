@@ -1,10 +1,10 @@
+
 ################################################################################
-##
 ## title: "TidyTuesday 2020/02 - Australian Fires by Bureau of Meteorology"
-## author: "Cedric Scherer"
-## date: "6th of January 2020"
-##
+## author: "Allie Burns"
+## date: "2020-01-07"
 ################################################################################
+
 library(sf)
 library(mapview)
 library(tidyverse)
