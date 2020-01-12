@@ -4,6 +4,6 @@ My contributions to [#TidyTuesday](https://twitter.com/search?q=%23tidytuesday&s
 
 ## My Favorite Plots
 ### 2020 - week2 - Australian Fires
-![Annual temperature above or below 1950−2018 average](./img/2020/2020_2_AustralianFires_1.pdf)
+[Annual temperature above or below 1950−2018 average](./img/2020/2020_2_AustralianFires_1.pdf)
 
 
