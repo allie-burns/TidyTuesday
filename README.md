@@ -4,4 +4,4 @@ My contributions to [#TidyTuesday](https://twitter.com/search?q=%23tidytuesday&s
 
 ## Some Plots
 ### 2020 - Volcano Eruptions 
-![](/plots/2020_20/20200512_VolcanoEruptions.pdf)
+![](/plots/2020_20/20200512_VolcanoEruptions.png)

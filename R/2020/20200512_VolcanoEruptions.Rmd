@@ -127,6 +127,10 @@ world_volcanos
 all_population
 highest_population
 dev.off()
+
+png(filename = "../../plots/2020_20/20200512_VolcanoEruptions.png", width = 600, height = 480)
+world_volcanos
+dev.off()
 ```
 
 
