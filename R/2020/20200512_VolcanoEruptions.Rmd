@@ -128,7 +128,7 @@ all_population
 highest_population
 dev.off()
 
-png(filename = "../../plots/2020_20/20200512_VolcanoEruptions.png", width = 600, height = 480)
+png(filename = "../../plots/2020_20/20200512_VolcanoEruptions.png", width = 900, height = 500)
 world_volcanos
 dev.off()
 ```
